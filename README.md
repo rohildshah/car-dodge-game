@@ -1,4 +1,4 @@
-# Description
+# car-dodge-game
 A game in which you control a car to dodge obstacles on a desert road. Your score is shown in the bottom right corner. If you hit the rocks too many times, the game is over.
 
 Gameplay: https://youtu.be/7K8BAcvJEpo
@@ -12,6 +12,8 @@ Processing Download: https://processing.org/download/
 Import of Processing core to Eclipse: https://processing.org/tutorials/eclipse/
 
 # How to run on your computer
+**Tested on Mac OS; this _may_ work on Windows as well**
+
 1. Download Eclipse (Link above)
 2. Download Processing (Link above)
 3. Create a new project in Eclipse with any name you desire
