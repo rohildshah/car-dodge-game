@@ -3,4 +3,5 @@ A game in which you control a car to dodge obstacles on a desert road. Your scor
 
 - Eclipse IDE is ideal
 - Requires the download and import of the processing core
+  
   Help: https://processing.org/tutorials/eclipse/
